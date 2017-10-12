@@ -7,6 +7,8 @@ import java.util.Set;
 
 /**
  * Created by Egor_Bobrov on 10/12/2017.
+ * This class represents a set of command line parameters and arguments entered by the user.
+ * It keeps the data loaded from some source and applies the arguments to the data.
  */
 public class CommandLineParameters implements WorkParameters {
 

@@ -15,6 +15,9 @@ import java.util.Set;
 
 /**
  * Created by Egor_Bobrov on 10/12/2017.
+ * This class is a factory for Parameters objects.
+ * It parses the command line arguments entered by the user, checks them for validity, loads the necessary data.
+ * Then it constructs the Parameters object and populates it with Arguments.
  */
 public class CommandLineParametersFactory implements ParametersFactory {
 

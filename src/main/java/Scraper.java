@@ -4,6 +4,7 @@ import java.io.PrintStream;
 
 /**
  * Created by Egor_Bobrov on 10/12/2017.
+ * This class is used to execute commands and providing the Parameters objects with the appropiate PrintStream.
  */
 public class Scraper {
 
